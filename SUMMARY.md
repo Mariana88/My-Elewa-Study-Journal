@@ -1,12 +1,17 @@
 # Summary
 
-* [My Notes](README.md)   
-* [Algorithms](./concepts/algorithms.md)
-  * [Quiz](./quizzes/algorithms.md)
-* [Git & GitHub](./concepts/git-github.md)
-  * [Quiz](./quizzes/git-github.md)
-* [Repo](https://github.com/elewa-academy/study-journal-template)
-* [Home (your portfolio)](https://elewa-academy.github.io)
+* [My Notes](README.md)
+  * [Notes by Concept](./concepts/ConceptsIndex.md)
+    * [Algorithms](./concepts/algorithms.md)
+      * [Quiz](./quizzes/algorithms.md)
+    * [Git & GitHub](./concepts/git-github.md)
+      * [Quiz](./quizzes/git-github.md)
+    * [Shell Script](./concepts/ShellScript.md)
+  * [Notes by Project](./ProjectNotes/ProjectNotesIndex.md)
+    * [Study Journal](./ProjectNotes/StudyJournalNotes.md)
+
+* [Repo](https://github.com/MarianaCasellaDosSantos/My-Elewa-Study-Journal)
+* [Home (my portfolio)](https://marianacaselladossantos.github.io)
 
 
 ___

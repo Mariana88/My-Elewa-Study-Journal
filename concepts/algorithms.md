@@ -7,7 +7,7 @@ I'll get back to this description when I learn more.
 ___
 
 * [if's inside for loops - 5/4/18](https://github.com/elewa-academy/study-journal-template/blob/master/02-04__08-04/05-04-2018.md)
-* [recursion - 14/4/18](https://github.com/elewa-academy/study-journal-template/blob/master/09-04__15-04/14-04-2018.md)
+* [recursion - 14/4/18](https://github.com/elewa-academy/study-journal-template/blob/master/09-04__15-04/14-04-2018.md/#)
 
 
 ___
