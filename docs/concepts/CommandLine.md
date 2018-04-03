@@ -14,3 +14,7 @@ Different Commands for Terminal
 * git branch nameof branch (create new branch)
 * -m (adding commit comment in the same commit command line -message between quotes '')
 * Git merge nameofbranchbeingmergedintocurrent
+
+# Underlying OS
+
+* chmod +x //or a+x (what's the difference?)- grants user permission to a given folder or file
