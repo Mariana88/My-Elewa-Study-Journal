@@ -14,7 +14,7 @@ ____________________________________
 
 # Commands
 
-- [Git commands](./concepts/CommandLine.md/#Git)
+- [Git commands](https://marianacaselladossantos.github.io/My-Elewa-Study-Journal/concepts/ConceptsIndex.html/#Git)
 
 # Git
 
