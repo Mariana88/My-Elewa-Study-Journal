@@ -5,3 +5,7 @@
 * shell script files have extension .sh
 
 * the underlying operating system (e.g. ubuntu) is responsible for fetching and executing the script in the command like
+
+## OtherReferred Projects Notes
+
+* [Study Journal](./ProjectNotes/StudyJournalNotes.md/#Shell-Script)

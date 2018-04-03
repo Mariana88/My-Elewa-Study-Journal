@@ -1,5 +1,4 @@
-# Algorithms
-
+you will have one markdown in here for each concept you find important.  You are invited to invent your own concepts and to group your notes in any way that makes sense to you.
 
 ___
 ___
