@@ -8,4 +8,4 @@
 
 ## OtherReferred Projects Notes
 
-* [Study Journal](https://marianacaselladossantos.github.io/My-Elewa-Study-Journal/ProjectNotes/StudyJournalNotes.html/#Shell-Script)
+* [Study Journal](https://marianacaselladossantos.github.io/My-Elewa-Study-Journal/ProjectNotes/StudyJournalNotes.html/#shell-script)
