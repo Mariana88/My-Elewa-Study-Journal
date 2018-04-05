@@ -27,3 +27,6 @@ ____________________________________
 - will detect conflicts and warn about them: a conflict means two different pieces of content in the same file in the SAME LINE (different content in different lines of the same file are not conflicts!)
 - command = Git merge name-of-branch-being-pulled-into-current
 - merge conflicts will be 'logged'/saved in the commit three
+
+* Multiple remote repositories
+- A given directory in my computer may be connected to more than one remote repositories. For that they are assigned different names. "origin" is the default name given by GitHub. In order to add an extra repository use git add remote + nameofnewrepository + url for cloning

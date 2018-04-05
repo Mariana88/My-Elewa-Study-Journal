@@ -14,6 +14,9 @@ Different Commands for Terminal
 * git branch nameof branch (create new branch)
 * -m (adding commit comment in the same commit command line -message between quotes '')
 * Git merge nameofbranchbeingmergedintocurrent
+* git add -A (will add/stage all files in the folder)
+* git remote add (arguments: a name for the repository , the cloning url) (adds a new external repository to a directory)
+* git remote -v (shows all connected remote repositories)
 
 # Underlying OS
 
