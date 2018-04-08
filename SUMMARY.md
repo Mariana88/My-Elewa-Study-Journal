@@ -15,8 +15,8 @@
   * [Notes by Project](./ProjectNotes/ProjectNotesIndex.md)
     * [Study Journal](./ProjectNotes/StudyJournalNotes.md)
 
-* [Repo](https://github.com/MarianaCasellaDosSantos/My-Elewa-Study-Journal)
-* [Home (my portfolio)](https://marianacaselladossantos.github.io)
+* [Repo](https://github.com/Mariana88/My-Elewa-Study-Journal)
+* [Home (my portfolio)](https://mariana88.github.io)
 
 
 ___
