@@ -1,5 +1,6 @@
 # Study Journal Template
 
+
 Fork this repo and make it your own.  You will use it for the remainder of this curriculum to organize, review, and share your notes.  Completing this repo will turn your notes into a powerful study & review tool, a showcase of your knowledge, and substantial practice with organizing and deploying projects to GitHub.
  
 Initial setup
@@ -66,4 +67,3 @@ study-journal
 
 ___
 ___
-<img src=./concepts/files/UNADJUSTEDNONRAW_thumb_13e.jpg" />
