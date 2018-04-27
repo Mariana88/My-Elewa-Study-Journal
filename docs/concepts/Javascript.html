@@ -389,7 +389,49 @@
                                 
                                 <h1 id="inbuild-functions">Inbuild functions</h1>
 <ul>
-<li>nameofstring.repeat (argument - a number) (repeats the string a given number of times)</li>
+<li><p>nameofstring.repeat (argument - a number) (repeats the string a given number of times)</p>
+</li>
+<li><p>alert</p>
+<ul>
+<li>displays an error message in a separate box (&quot;outside of your site&quot; like)</li>
+<li>syntax: alert(&quot;the Message You Want To Show&quot;)</li>
+</ul>
+</li>
+</ul>
+<h1 id="constructios">Constructios</h1>
+<ul>
+<li><p>try catch (tries something and if it does not work throuws(&apos;catches&apos;) error)
+syntax:<br>try{function (or operation)}
+catch{}</p>
+</li>
+<li><p>ternary operator
+(some condition to check) ?  (something to evaluate or execute - if the condition evaluates to true): something to do if condition evaluates to false</p>
+</li>
+<li><p>eval()
+eval (some condition to check or execute)<br>very dangerous opration for it will do whatever is inside the parenthesis</p>
+</li>
+</ul>
+<h1 id="general-notions">General Notions</h1>
+<h2 id="pure-vs-inpure-functions">Pure Vs. Inpure functions</h2>
+<ul>
+<li>pure does not modify any variable which is not passed to or declared within the function</li>
+<li>inpure - modifies variables in another scope (higher function or global scope) - Bad practice!</li>
+</ul>
+<h2 id="state-based-applications">State-based applications</h2>
+<ul>
+<li>store the &quot;state&quot; of the data at a given point in time / after some (user or program) interaction has taken place</li>
+</ul>
+<h1 id="operators">Operators</h1>
+<h2 id="exclamation-mark-">exclamation mark !</h2>
+<ul>
+<li>means &apos;not&apos;</li>
+<li>x = !x (for booleans: sets x to a different value than x was previously. For other variables/data types it will return false (because the truth value of a given variable is true))</li>
+</ul>
+<h1 id="arrays">Arrays</h1>
+<ul>
+<li>Deleting an item .splice method - allows to specify a range of array items to delete
+nameOfArray.splice (index of first item to be deleted, number indicating how many items you want to delete starting from that indez)<br>e.g. array.splice (3, 1) will delete item at index 3
+array.splice (3, 2) will delete items at index 3 and 4</li>
 </ul>
 
                                 
@@ -434,7 +476,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Javascript","level":"1.1.1.5","depth":3,"next":{"title":"Markdown","level":"1.1.1.6","depth":3,"path":"concepts/Markdown.md","ref":"./concepts/Markdown.md","articles":[]},"previous":{"title":"Html","level":"1.1.1.4","depth":3,"path":"concepts/Html.md","ref":"./concepts/Html.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters","quiz"],"pluginsConfig":{"quiz":{"labels":{"check":"Check my answers","showExplanation":"Explain","showCorrect":"Show all","explanationHeader":"Explanation"},"text":{"noChosen":"Choose at least one answer","incomplete":"Some correct answers are missing"},"buttons":{"showCorrect":true,"showExplanation":true}},"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"concepts/Javascript.md","mtime":"2018-04-05T14:22:40.910Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-17T16:49:34.833Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Javascript","level":"1.1.1.5","depth":3,"next":{"title":"Markdown","level":"1.1.1.6","depth":3,"path":"concepts/Markdown.md","ref":"./concepts/Markdown.md","articles":[]},"previous":{"title":"Html","level":"1.1.1.4","depth":3,"path":"concepts/Html.md","ref":"./concepts/Html.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters","quiz"],"pluginsConfig":{"quiz":{"labels":{"check":"Check my answers","showExplanation":"Explain","showCorrect":"Show all","explanationHeader":"Explanation"},"text":{"noChosen":"Choose at least one answer","incomplete":"Some correct answers are missing"},"buttons":{"showCorrect":true,"showExplanation":true}},"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"concepts/Javascript.md","mtime":"2018-04-27T10:15:43.863Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-27T15:41:14.466Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
