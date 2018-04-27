@@ -23,3 +23,6 @@ Different Commands for Terminal
 * chmod +x //or a+x (what's the difference?)- grants user permission to a given folder or file
 * install
  * you can specify the library name + install (e.g."npm install" or "gitbook install" etc). This should be done from a specific program directory with executable code. What will do is to look into the files in that directory and look up the dependencies. It will then pull and install all dependencies from that given library.
+
+* Rename a folder or file
+mv path/oldName path/newName

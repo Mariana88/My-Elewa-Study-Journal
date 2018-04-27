@@ -21,3 +21,6 @@
 -> will iterate through each property of the object
 
 # [Gist Examples](https://gist.github.com/colevandersWands/69ac68ffd4c8b2da53a8297f2937d74c)
+
+# ES6 syntax - returning an object out of a function
+* see gist on 20/4 "bottles"

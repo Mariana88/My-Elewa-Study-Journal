@@ -17,3 +17,13 @@ library for network/graphs data aggregation , analysis and visualization
 * javascript.info (all types of documentation about javascript)
 
 * hyperapp (check)
+
+* wtfjs.com (website with documentation about all types of weird behaviors in javascript. Especially about data type conversions)
+
+* Bootstrap (a CSS library)
+
+* Gremlins (library to test a full UI - goes clicking places and doing all kindsof things)
+
+* Wireframe.cc (tool to make wireframes)
+
+* sketchboard.io (tool to make diagrams)
