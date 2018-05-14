@@ -26,3 +26,7 @@ Different Commands for Terminal
 
 * Rename a folder or file
 mv path/oldName path/newName
+
+* Opening html from terminal
+sensible-browser index.html
+sensible-browser http://google.com

@@ -5,6 +5,7 @@
 * alert
  * displays an error message in a separate box ("outside of your site" like)
  * syntax: alert("the Message You Want To Show")
+ * arguments (an in build "thing" not quite object not quite array, which exists in every function and means "all arguments" passed in this function)
 
 # Constructios
 
@@ -41,3 +42,7 @@ very dangerous opration for it will do whatever is inside the parenthesis
 nameOfArray.splice (index of first item to be deleted, number indicating how many items you want to delete starting from that indez)  
 e.g. array.splice (3, 1) will delete item at index 3
 array.splice (3, 2) will delete items at index 3 and 4
+
+# Constructors
+
+* a good [reference](https://openclassrooms.com/courses/learn-the-basics-of-javascript/use-constructor-functions)

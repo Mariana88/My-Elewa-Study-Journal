@@ -27,3 +27,7 @@ library for network/graphs data aggregation , analysis and visualization
 * Wireframe.cc (tool to make wireframes)
 
 * sketchboard.io (tool to make diagrams)
+
+* Chai and Moka - behavioral testing libraries
+
+* Loupe (tool to visualize javascript runtime execution at run time)
